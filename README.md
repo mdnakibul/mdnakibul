@@ -2,7 +2,7 @@
 ### Hi there, I'm -  [Md Nakibul Hosen Nahid][website] 👋
 
 [![Website](https://img.shields.io/website?label=programmingcare.com&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](https://www.programmingcare.com/)
-[![Website](https://img.shields.io/website?label=mdnakibul.netlify.com&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](https://www.mdnakibul.netlify.com/)
+[![Website](https://img.shields.io/website?label=mdnakibul.netlify.com&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](https://mdnakibul.netlify.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/programming_care?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprogramming_care&screen_name=Programming_care)
 
 ## I'm a Developer and Dreamer Who make things happen!!
