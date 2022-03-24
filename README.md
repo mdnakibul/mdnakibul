@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/website?label=programmingcare.com&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](https://www.programmingcare.com/)
 [![Website](https://img.shields.io/website?label=mdnakibul.netlify.com&style=for-the-badge&url=https%3A%2F%2Fprogrammingcare.com)](https://mdnakibul.netlify.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/programming_care?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fprogramming_care&screen_name=Programming_care)
+[![Twitter Follow](https://img.shields.io/twitter/follow/HosenNakibul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FHosenNakibul&screen_name=HosenNakibul)
 
 ## I'm a Developer and Dreamer Who make things happen!!
 
@@ -18,7 +18,7 @@
 
 [<img align="left" alt="programmingcare.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="programmingcare | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="programmingcare | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Md Nakibul Hosen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="programmingcare | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="programmingcare | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -50,7 +50,7 @@
 
 
 [website]: https://www.programmingcare.com/
-[twitter]: https://twitter.com/programming_care
+[twitter]: https://twitter.com/HosenNakibul
 [youtube]: https://www.youtube.com/c/MdNakibulHosenNahid
 [instagram]: https://www.instagram.com/md_nakibul_hosen/
 [linkedin]: https://www.linkedin.com/in/md-nakibul-hosen-nahid/
