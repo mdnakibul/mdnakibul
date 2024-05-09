@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Next.js and Exploring web3
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies and travel
 - 📢 I have started my career as a front-end developer at [leadsbee.org][leadsbee]
 - 📢 I have work on freelance project with [Drivill][drivill] as a front-end developer
